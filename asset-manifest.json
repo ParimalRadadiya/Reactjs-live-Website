@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Reactjs-live-Website/static/css/main.a603dece.css",
+    "main.js": "/Reactjs-live-Website/static/js/main.92e6f1be.js",
+    "static/media/3.jpg": "/Reactjs-live-Website/static/media/3.0f4ac9a1724f12e462cc.jpg",
+    "static/media/7.png": "/Reactjs-live-Website/static/media/7.ea6f725025caf136cb64.png",
+    "static/media/6.jpg": "/Reactjs-live-Website/static/media/6.26e51202d5c3a7760d48.jpg",
+    "static/media/2.jpg": "/Reactjs-live-Website/static/media/2.c3f4d0739341d4f4393e.jpg",
+    "static/media/1.png": "/Reactjs-live-Website/static/media/1.f1aa03946add7b44c9dd.png",
+    "static/media/4.jpg": "/Reactjs-live-Website/static/media/4.d967abb58fda25fe9842.jpg",
+    "static/media/8.png": "/Reactjs-live-Website/static/media/8.53f1b5467e5095dc4126.png",
+    "static/media/5.jpg": "/Reactjs-live-Website/static/media/5.44c437df232be28b0957.jpg",
+    "index.html": "/Reactjs-live-Website/index.html",
+    "main.a603dece.css.map": "/Reactjs-live-Website/static/css/main.a603dece.css.map",
+    "main.92e6f1be.js.map": "/Reactjs-live-Website/static/js/main.92e6f1be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a603dece.css",
+    "static/js/main.92e6f1be.js"
+  ]
+}
